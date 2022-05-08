@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetC68_1 Pin=R69-2
+Added Pin To Net: NetName=PWR_HP0 Pin=R69-2
+Added Member To Class: ClassName=Audio_Power Member=Component D22 LED
+Added Member To Class: ClassName=Audio_Power Member=Component D23 LED
+Added Member To Class: ClassName=Audio_Power Member=Component D24 LED
+Added Member To Class: ClassName=Audio_Power Member=Component D25 LED
+Added Room: Name=Audio_Amp
+Added Room: Name=Audio_Power
+Added Room: Name=Audio_VU_LED

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=AU_B_VN Pin=C62-1
+Removed Pin From Net: NetName=GND Pin=C62-2
+Added Pin To Net: NetName=GND Pin=C62-1
+Added Pin To Net: NetName=AU_B_VN Pin=C62-2
