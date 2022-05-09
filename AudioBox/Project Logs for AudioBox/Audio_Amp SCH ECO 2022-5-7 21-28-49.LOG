@@ -1,2 +1,0 @@
-Remove Pin=H3-4 From Net=PWR_VOUT
-Change Component Footprint: Designator=H3 Old Footprint=H_2.54_P4 New Footprint=
