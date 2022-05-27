@@ -1,0 +1,53 @@
+Protel Design System Design Rule Check
+PCB File : D:\workspace\hardware\audio_box\AudioBox_Amp\AudioBoxV2.PcbDoc
+Date     : 2022/5/27
+Time     : 12:25:25
+
+Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=15mil) (Max=50mil) (Preferred=25mil) (InNetClass('PWR'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=50mil) (Preferred=15mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=2mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=4mil) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (1.406mil < 4mil) Between Pad H3-2(3310mil,4330mil) on Multi-Layer And Track (3273.799mil,4236.803mil)(3273.799mil,4777.087mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [1.406mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.796mil < 4mil) Between Pad H3-3(3210mil,4330mil) on Multi-Layer And Track (3247.451mil,4236.803mil)(3247.451mil,4777.087mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [3.796mil]
+Rule Violations :2
+
+Processing Rule : Silk to Silk (Clearance=2mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 2
+Waived Violations : 0
+Time Elapsed        : 00:00:02
