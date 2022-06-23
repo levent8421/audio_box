@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [AudioBox_Amp.PrjPcb]
+   Generated File[AudioBoxAmpV3-3-RoundHoles.TXT]
+   Generated File[AudioBoxAmpV3-3-SlotHoles.TXT]
+   Generated File[AudioBoxAmpV3-3.LDP]
+   Generated File[AudioBoxAmpV3-3.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 18:22:29 On 2022/6/18

@@ -122,6 +122,182 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AYCLPXJC
 
+[Document6]
+DocumentPath=AudioBoxAmpV3-2.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FXKBMNCW
+
+[Document7]
+DocumentPath=AudioBoxAmpV3-3.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KYCPDVYH
+
+[Document8]
+DocumentPath=CAMtastic1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document9]
+DocumentPath=CAMtastic2.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for AudioBox_Amp\AudioBoxAmpV3-3-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for AudioBox_Amp\AudioBoxAmpV3-3-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for AudioBox_Amp\AudioBoxAmpV3-3.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for AudioBox_Amp\AudioBoxAmpV3-3.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for AudioBox_Amp\AudioBoxAmpV3-3.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for AudioBox_Amp\AudioBoxAmpV3-3.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for AudioBox_Amp\AudioBoxAmpV3-3.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for AudioBox_Amp\AudioBoxAmpV3-3.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for AudioBox_Amp\AudioBoxAmpV3-3.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for AudioBox_Amp\AudioBoxAmpV3-3.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for AudioBox_Amp\AudioBoxAmpV3-3.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for AudioBox_Amp\AudioBoxAmpV3-3.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for AudioBox_Amp\AudioBoxAmpV3-3.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for AudioBox_Amp\AudioBoxAmpV3-3.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for AudioBox_Amp\AudioBoxAmpV3-3.GM6
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for AudioBox_Amp\AudioBoxAmpV3-3.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for AudioBox_Amp\AudioBoxAmpV3-3.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for AudioBox_Amp\AudioBoxAmpV3-3.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for AudioBox_Amp\AudioBoxAmpV3-3.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for AudioBox_Amp\AudioBoxAmpV3-3.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for AudioBox_Amp\AudioBoxAmpV3-3.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for AudioBox_Amp\AudioBoxAmpV3-3.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for AudioBox_Amp\AudioBoxAmpV3-3.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for AudioBox_Amp\AudioBoxAmpV3-3.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for AudioBox_Amp\AudioBoxAmpV3-3.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for AudioBox_Amp\AudioBoxAmpV3-3.REP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for AudioBox_Amp\AudioBoxAmpV3-3.RUL
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -135,7 +311,7 @@ ConfigurationType=Source
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Wondershare PDFelement
+TargetPrinter=\\192.168.1.47\SHARP BP-M2322R PCL6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -241,7 +417,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Wondershare PDFelement
+TargetPrinter=\\192.168.1.47\SHARP BP-M2322R PCL6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -319,7 +495,7 @@ PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Wondershare PDFelement
+TargetPrinter=\\192.168.1.47\SHARP BP-M2322R PCL6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -341,7 +517,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Wondershare PDFelement
+TargetPrinter=\\192.168.1.47\SHARP BP-M2322R PCL6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
@@ -421,7 +597,7 @@ Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLaye
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Wondershare PDFelement
+TargetPrinter=\\192.168.1.47\SHARP BP-M2322R PCL6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -472,7 +648,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Wondershare PDFelement
+TargetPrinter=\\192.168.1.47\SHARP BP-M2322R PCL6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -580,7 +756,7 @@ PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Wondershare PDFelement
+TargetPrinter=\\192.168.1.47\SHARP BP-M2322R PCL6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -624,7 +800,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Wondershare PDFelement
+TargetPrinter=\\192.168.1.47\SHARP BP-M2322R PCL6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -685,7 +861,7 @@ OutputDefault11=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Wondershare PDFelement
+TargetPrinter=\\192.168.1.47\SHARP BP-M2322R PCL6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
