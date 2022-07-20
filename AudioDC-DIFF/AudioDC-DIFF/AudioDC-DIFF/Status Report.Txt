@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [AudioDC-DIFF.PrjPcb]
+   Generated File[DIFF_TFT.TXT]
+   Generated File[DIFF_TFT.LDP]
+   Generated File[DIFF_TFT.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 22:56:29 On 2022/7/18

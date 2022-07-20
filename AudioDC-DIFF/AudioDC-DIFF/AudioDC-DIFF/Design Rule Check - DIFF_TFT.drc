@@ -1,0 +1,53 @@
+Protel Design System Design Rule Check
+PCB File : D:\workspace\hardware\AudioBox\AudioDC-DIFF\AudioDC-DIFF\DIFF_TFT.PcbDoc
+Date     : 2022/7/18
+Time     : 22:54:54
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net GND Between Track (4249.743mil,2830.53mil)(4293.868mil,2874.655mil) on Bottom Layer And Pad Designator45-2(4330mil,3307.555mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Q1-2(4284.68mil,3492.598mil) on Bottom Layer And Track (4330mil,3307.555mil)(4330mil,3390mil) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=100mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=6mil) (All),(All)
+   Violation between Hole To Hole Clearance Constraint: (Collision < 6mil) Between Pad H1-4(4464.074mil,2580mil) on Multi-Layer And Pad H1-4(4464.074mil,2580mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 6mil) Between Pad H2-4(4385mil,3860mil) on Multi-Layer And Pad H2-4(4385mil,3860mil) on Multi-Layer Pad/Via Touching Holes
+Rule Violations :2
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=4mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=4mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=4mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+   Violation between Net Antennae: Track (4330mil,3307.555mil)(4330mil,3390mil) on Top Layer 
+Rule Violations :1
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 5
+Waived Violations : 0
+Time Elapsed        : 00:00:01
